@@ -1,0 +1,12 @@
+# What to do when a detector fires
+[rules]
+email        = "redact"
+aws_key      = "redact"
+api_key      = "redact"
+github_token = "redact"
+high_entropy = "redact"
+private_key  = "block"
+
+# Contextual risk from the AI layer
+[ai]
+block_on = "high"

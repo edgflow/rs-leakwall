@@ -1,0 +1,9 @@
+Our deploy script fails in production. Here is the config:
+
+  AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+  LLM_API_KEY=sk-demo-9fQ2xL7vR4tN8bW1kZ6yH3pJ
+  session=7hG2kQ9xLm4Vr8Tz1Wq6Yb3NcP5s
+  notify: jane.doe@example.com, ops@example.org
+
+Customer reports also go to jane.doe@example.com.
+Why does the upload step fail?

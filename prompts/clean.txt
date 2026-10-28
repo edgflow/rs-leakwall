@@ -1,0 +1,2 @@
+Summarize this error for me: thread 'main' panicked at
+src/parser.rs:42: index out of bounds. What usually causes it?
